@@ -1,15 +1,15 @@
 {
   "posts": [
     {
-      "user": khanh,
+      "user": 1,
       "title": "khanh1"
     },
     {
-      "user": khanh,
+      "user": 2,
       "title": "khanh2"
     },
     {
-      "user": khanh,
+      "user": 3,
       "title": "khanh3"
     }
   ],
