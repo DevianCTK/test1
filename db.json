@@ -1,24 +1,29 @@
-{
-  "User": [
-    {
-      "id": 1,
-      "username": "khanh",
-      "password": "khanh123",
-      "email": "Sincere@april.biz",
-      "address": {
-      "suite": "Apt. 556",
-      },
-      "website": "khanh.org",
+{"user":[
+  {
+    "id": 1,
+    "username": "khanh",
+    "password": "khanh123",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light"
     },
-    {
-      "id": 2,
-      "username": "khanh1",
-      "password": "khanh123",
-      "email": "khanh@april.biz",
-      "address": {
-      "suite": "id2",
-      },
-      "website": "hildegard.org",
-    }
-  ],
+    "website": "hildegard.org"
+    
+  },
+  {
+    "id": 2,
+    "username": "khanh1",
+    "password": "khanh123",
+    "email": "khanh@april.biz",
+    "address": {
+      "street": "asd Light"
+    },
+    "website": "khanh.org"
+    
+  }
+ 
+],
+"profile": {
+    "name": "typicode"
+  }
 }
