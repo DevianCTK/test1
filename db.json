@@ -6,16 +6,8 @@
       "password": "khanh123",
       "email": "Sincere@april.biz",
       "address": {
-      "street": "Kulas Light",
       "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
       },
-      "phone": "3-42-323-3333 x56442",
       "website": "khanh.org",
     },
     {
@@ -24,18 +16,10 @@
       "password": "khanh123",
       "email": "khanh@april.biz",
       "address": {
-      "street": "tht",
       "suite": "id2",
-      "city": "id2",
-      "zipcode": "34-383274",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
       },
-      "phone": "1-770-736-8031 x56442",
       "website": "hildegard.org",
-       }
+    }
   ],
 
   "comments": [
