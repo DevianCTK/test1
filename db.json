@@ -1,6 +1,6 @@
 {
   "User": [
-    { "id": 1, "user": "khanh", "password": "khanh123" },
+    { "id": 1, "user": "khanh", "password": "khanh123" }
 
   ],
   "comments": [
