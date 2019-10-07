@@ -1,4 +1,9 @@
+[
 
 {
-  "id": 1, "user": "khanh", "password": "khanh123"
-}
+     "id": 1, "user": "khanh", "password": "khanh123"
+  },
+  {
+     "id": 2, "user": "khanh1", "password": "khanh123"
+  }
+]
