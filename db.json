@@ -1,4 +1,6 @@
-[
+{
+    
+    "Gift":[
   {
     "GValue": 1,
     "GName": "Phần Quà Công Nghệ",
@@ -105,6 +107,14 @@
         "GDetailWeight": 1.0,
         "GDetailAmount": 1
       }
+    
     ]
+
+  
+  
   }
+
+ 
+
 ]
+}
