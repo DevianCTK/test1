@@ -1,5 +1,13 @@
-{
-  "userId": 1,
-  "id": 1,
-  "title": "quidem molestiae enim"
-}
+[
+  {
+    "id": 1,
+    "GName": "Phần Quà Công Nghệ",
+    "GiftDetails": "Gift1" 
+  }
+  {
+    "id": 3,
+    "GName": "Phần Quà C",
+    "GiftDetails": "asd"
+     
+  }
+]
