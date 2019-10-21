@@ -1,13 +1,16 @@
-[
-  {
-    "id": 1,
-    "GName": "Phần Quà Công Nghệ",
-    "GiftDetails": "Gift1" 
-  }
-  {
-    "id": 3,
-    "GName": "Phần Quà C",
-    "GiftDetails": "asd"
-     
-  }
-]
+{
+  "Gift": [
+    {
+      "id": 1,
+      "GName": "Phần Quà Công Nghệ",
+      "GiftDetails": "asd"
+    },
+    {
+      "id": 2,
+      "GName": "Phần Quà Thường",
+      "GiftDetails":"Gift1
+      
+    },
+   
+  ]
+}
