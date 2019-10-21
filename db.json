@@ -8,8 +8,8 @@
           "GDetailValue": 5,
           "GDetailName": "Gift1",
           "GDetailWeight": 2,
-          "GDetailAmount": 4,
-          "ImageGDetail" : "https://via.placeholder.com/600/92c952"
+          "GDetailAmount": 4
+          
         },
         {
           "GDetailValue": 1,
