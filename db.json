@@ -1,115 +1,112 @@
-[
-  {
-    "GValue": 1,
-    "GName": "Phần Quà Công Nghệ",
-    "GiftDetails": [
-      {
-        "GDetailValue": 5,
-        "GDetailName": "Gift1",
-        "GDetailWeight": 2.0,
-        "GDetailAmount": 4
-      },
-      {
-        "GDetailValue": 1,
-        "GDetailName": "11",
-        "GDetailWeight": 12.0,
-        "GDetailAmount": 23
-      },
-      {
-        "GDetailValue": 4,
-        "GDetailName": "fasdzxc",
-        "GDetailWeight": 12.0,
-        "GDetailAmount": 23
-      },
-      {
-        "GDetailValue": 6,
-        "GDetailName": "fasdzxc",
-        "GDetailWeight": 12.0,
-        "GDetailAmount": 23
-      },
-      {
-        "GDetailValue": 3,
-        "GDetailName": "xz",
-        "GDetailWeight": 12.0,
-        "GDetailAmount": 23
-      }
-    ]
-  },
-  {
-    "GValue": 2,
-    "GName": "Phần Quà Thường",
-    "GiftDetails": [
-      {
-        "GDetailValue": 1,
-        "GDetailName": "wwe",
-        "GDetailWeight": 1.0,
-        "GDetailAmount": 111
-      }
-    ]
-  },
-  {
-    "GValue": 3,
-    "GName": "Phần Quà C",
-    "GiftDetails": [
-      {
-        "GDetailValue": 1,
-        "GDetailName": "asd",
-        "GDetailWeight": 12.0,
-        "GDetailAmount": 1
-      },
-      {
-        "GDetailValue": 6,
-        "GDetailName": "wwwwww",
-        "GDetailWeight": 1.0,
-        "GDetailAmount": 111
-      },
-      {
-        "GDetailValue": 3,
-        "GDetailName": "xz",
-        "GDetailWeight": 12.0,
-        "GDetailAmount": 23
-      },
-      {
-        "GDetailValue": 7,
-        "GDetailName": "vcxzcxz",
-        "GDetailWeight": 12.0,
-        "GDetailAmount": 23
-      },
-      {
-        "GDetailValue": 2,
-        "GDetailName": "sadasd",
-        "GDetailWeight": 12.0,
-        "GDetailAmount": 23
-      }
-    ]
-  },
-  {
-    "GValue": 4,
-    "GName": "Phần Quà D",
-    "GiftDetails": [
-      {
-        "GDetailValue": 1,
-        "GDetailName": "wq",
-        "GDetailWeight": 1.0,
-        "GDetailAmount": 1
-      },
-      {
-        "GDetailValue": 3,
-        "GDetailName": "wq",
-        "GDetailWeight": 1.0,
-        "GDetailAmount": 1
-      },
-      {
-        "GDetailValue": 6,
-        "GDetailName": "wq",
-        "GDetailWeight": 1.0,
-        "GDetailAmount": 1
-      }
-    
-    ]
-
-  
-  
-  }]
-
- 
+{
+  "Gift": [
+    {
+      "GValue": 1,
+      "GName": "Phần Quà Công Nghệ",
+      "GiftDetails": [
+        {
+          "GDetailValue": 5,
+          "GDetailName": "Gift1",
+          "GDetailWeight": 2,
+          "GDetailAmount": 4
+        },
+        {
+          "GDetailValue": 1,
+          "GDetailName": "11",
+          "GDetailWeight": 12,
+          "GDetailAmount": 23
+        },
+        {
+          "GDetailValue": 4,
+          "GDetailName": "fasdzxc",
+          "GDetailWeight": 12,
+          "GDetailAmount": 23
+        },
+        {
+          "GDetailValue": 6,
+          "GDetailName": "fasdzxc",
+          "GDetailWeight": 12,
+          "GDetailAmount": 23
+        },
+        {
+          "GDetailValue": 3,
+          "GDetailName": "xz",
+          "GDetailWeight": 12,
+          "GDetailAmount": 23
+        }
+      ]
+    },
+    {
+      "GValue": 2,
+      "GName": "Phần Quà Thường",
+      "GiftDetails": [
+        {
+          "GDetailValue": 1,
+          "GDetailName": "wwe",
+          "GDetailWeight": 1,
+          "GDetailAmount": 111
+        }
+      ]
+    },
+    {
+      "GValue": 3,
+      "GName": "Phần Quà C",
+      "GiftDetails": [
+        {
+          "GDetailValue": 1,
+          "GDetailName": "asd",
+          "GDetailWeight": 12,
+          "GDetailAmount": 1
+        },
+        {
+          "GDetailValue": 6,
+          "GDetailName": "wwwwww",
+          "GDetailWeight": 1,
+          "GDetailAmount": 111
+        },
+        {
+          "GDetailValue": 3,
+          "GDetailName": "xz",
+          "GDetailWeight": 12,
+          "GDetailAmount": 23
+        },
+        {
+          "GDetailValue": 7,
+          "GDetailName": "vcxzcxz",
+          "GDetailWeight": 12,
+          "GDetailAmount": 23
+        },
+        {
+          "GDetailValue": 2,
+          "GDetailName": "sadasd",
+          "GDetailWeight": 12,
+          "GDetailAmount": 23
+        }
+      ]
+    },
+    {
+      "GValue": 4,
+      "GName": "Phần Quà D",
+      "GiftDetails": [
+        {
+          "GDetailValue": 1,
+          "GDetailName": "wq",
+          "GDetailWeight": 1,
+          "GDetailAmount": 1
+        },
+        {
+          "GDetailValue": 3,
+          "GDetailName": "wq",
+          "GDetailWeight": 1,
+          "GDetailAmount": 1
+        },
+        {
+          "GDetailValue": 6,
+          "GDetailName": "wq",
+          "GDetailWeight": 1,
+          "GDetailAmount": 1
+        }
+      ]
+    }
+  ]
+}
