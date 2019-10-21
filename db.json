@@ -7,32 +7,32 @@
       {
         "GDetailValue": 5,
         "GDetailName": "Gift1",
-        "GDetailWeight": 2,
+        "GDetailWeight": 5,
         "GDetailAmount": 4,
         "ImageGDetail": "https://via.placeholder.com/600/92c952"
       },
       {
         "GDetailValue": 1,
         "GDetailName": "11",
-        "GDetailWeight": 12,
+        "GDetailWeight": 1,
         "GDetailAmount": 23
       },
       {
         "GDetailValue": 4,
         "GDetailName": "fasdzxc",
-        "GDetailWeight": 12,
+        "GDetailWeight": 4,
         "GDetailAmount": 23
       },
       {
         "GDetailValue": 6,
         "GDetailName": "fasdzxc",
-        "GDetailWeight": 12,
+        "GDetailWeight": 6,
         "GDetailAmount": 23
       },
       {
         "GDetailValue": 3,
         "GDetailName": "xz",
-        "GDetailWeight": 12,
+        "GDetailWeight": 3,
         "GDetailAmount": 23
       }
     ]
@@ -56,31 +56,31 @@
       {
         "GDetailValue": 1,
         "GDetailName": "asd",
-        "GDetailWeight": 12,
+        "GDetailWeight": 1,
         "GDetailAmount": 1
       },
       {
         "GDetailValue": 6,
         "GDetailName": "wwwwww",
-        "GDetailWeight": 1,
+        "GDetailWeight": 6,
         "GDetailAmount": 111
       },
       {
         "GDetailValue": 3,
         "GDetailName": "xz",
-        "GDetailWeight": 12,
+        "GDetailWeight": 3,
         "GDetailAmount": 23
       },
       {
         "GDetailValue": 7,
         "GDetailName": "vcxzcxz",
-        "GDetailWeight": 12,
+        "GDetailWeight": 7,
         "GDetailAmount": 23
       },
       {
         "GDetailValue": 2,
         "GDetailName": "sadasd",
-        "GDetailWeight": 12,
+        "GDetailWeight": 2,
         "GDetailAmount": 23
       }
     ]
