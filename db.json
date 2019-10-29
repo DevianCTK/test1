@@ -1,17 +1,19 @@
 {
  "GiftDetail":
-[
-  {
+ [
+   {
     "id": 1,
     "GValue": 2,
+    "GDetailValue":1,
     "GDetailName": "Quà bí ẩn 1",
     "GDetailWeight": 10,
     "GDetailAmount": 23,
-    "ImageGDetail": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg"
+    "GImageDetail": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg"
   },
   {
     "id": 2,
     "GValue": 2,
+    "GDetailValue":2,
     "GDetailName": "Quà bí ẩn 2",
     "GDetailWeight": 0.01,
     "GDetailAmount": 5,
@@ -20,6 +22,7 @@
   {
     "id": 3,
     "GValue": 2,
+    "GDetailValue": 3,
     "GDetailName": "Quà bí ẩn 3",
     "GDetailWeight": 10,
     "GDetailAmount": 5,
@@ -28,6 +31,7 @@
   {
     "id": 4,
     "GValue": 2,
+    "GDetailValue": 4,
     "GDetailName": "Quà bí ẩn 4",
     "GDetailWeight": 10,
     "GDetailAmount": 5,
@@ -35,11 +39,12 @@
   },
   {
     "id": 5,
-    "GValue": 2 ,
+    "GValue": 2,
+    "GDetailValue": 5,
     "GDetailName": "Quà bí ẩn 5",
     "GDetailWeight": 5,
     "GDetailAmount": 5,
     "GImageDetail": "https://homepages.cae.wisc.edu/~ece533/images/baboon"
-  },
-]
+  }
+ ]
 }
