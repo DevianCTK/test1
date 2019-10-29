@@ -1,50 +1,50 @@
 {
- "GiftDetail":
+ "GiftUnknows":
  [
    {
     "id": 1,
     "GValue": 2,
-    "GDetailValue":1,
-    "GDetailName": "Quà bí ẩn 1",
-    "GDetailWeight": 10,
-    "GDetailAmount": 23,
-    "GImageDetail": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg"
+    "GUnknowValue":1,
+    "GUnknowName": "Quà bí ẩn 1",
+    "GUnknowWeight": 10,
+    "GUnknowAmount": 23,
+    "GUnknowImage": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg"
   },
   {
     "id": 2,
     "GValue": 2,
-    "GDetailValue":2,
-    "GDetailName": "Quà bí ẩn 2",
-    "GDetailWeight": 0.01,
-    "GDetailAmount": 5,
-    "GImageDetail": "https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-256gb-a1-600x600.jpg"
+    "GUnknowValue":2,
+    "GUnknowName": "Quà bí ẩn 2",
+    "GUnknowWeight": 0.01,
+    "GUnknowAmount": 5,
+    "GUnknowImage": "https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-256gb-a1-600x600.jpg"
   },
   {
     "id": 3,
     "GValue": 2,
-    "GDetailValue": 3,
-    "GDetailName": "Quà bí ẩn 3",
-    "GDetailWeight": 10,
-    "GDetailAmount": 5,
-    "GImageDetail": "https://homepages.cae.wisc.edu/~ece533/images/arctichare"
+    "GUnknowValue": 3,
+    "GUnknowName": "Quà bí ẩn 3",
+    "GUnknowWeight": 10,
+    "GUnknowAmount": 5,
+    "GUnknowImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare"
   },
   {
     "id": 4,
     "GValue": 2,
-    "GDetailValue": 4,
-    "GDetailName": "Quà bí ẩn 4",
-    "GDetailWeight": 10,
-    "GDetailAmount": 5,
-    "GImageDetail": "https://homepages.cae.wisc.edu/~ece533/images/airplane"
+    "GUnknowValue": 4,
+    "GUnknowName": "Quà bí ẩn 4",
+    "GUnknowWeight": 10,
+    "GUnknowAmount": 5,
+    "GUnknowImage": "https://homepages.cae.wisc.edu/~ece533/images/airplane"
   },
   {
     "id": 5,
     "GValue": 2,
-    "GDetailValue": 5,
-    "GDetailName": "Quà bí ẩn 5",
-    "GDetailWeight": 5,
-    "GDetailAmount": 5,
-    "GImageDetail": "https://homepages.cae.wisc.edu/~ece533/images/baboon"
+    "GUnknowValue": 5,
+    "GUnknowName": "Quà bí ẩn 5",
+    "GUnknowWeight": 5,
+    "GUnknowAmount": 5,
+    "GUnknowImage": "https://homepages.cae.wisc.edu/~ece533/images/baboon"
   }
  ]
 }
